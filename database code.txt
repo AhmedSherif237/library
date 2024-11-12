@@ -1,0 +1,28 @@
+drop table if exists books;
+drop table if exists borrow;
+
+create table books
+(
+	BookId int identity primary key,
+	BookTitle varchar(max),
+	Author varchar(max),
+	Quantity int
+);
+
+create table borrow
+(
+	CustomerId int identity primary key,
+	CustomerName varchar(max),
+	BookId int, 
+	Quantity int,
+	BookTitle varchar(max),
+	BorrowDate date,
+	ReturnDate varchar(max)
+);
+
+insert into books(BookTitle, Author, Quantity) 
+values 
+('Learn Programming whith C#', 'Ahmed Sherif', 100);
+
+select * from books;
+select * from borrow;

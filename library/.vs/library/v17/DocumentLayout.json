@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|c:\\users\\it\\downloads\\learn_github-main\\library\\library\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D6AC117-64E9-451C-9344-F0703E2DE3ED}|library\\library.csproj|solutionrelative:library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\Model1.edmx",
+              "RelativeDocumentMoniker": "library\\Model1.edmx",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "library\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-12T07:07:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "library\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\MainWindow.xaml",
+              "RelativeToolTip": "library\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T06:33:58.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\admin.xaml.cs",
+              "RelativeDocumentMoniker": "library\\admin.xaml.cs",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\admin.xaml.cs",
+              "RelativeToolTip": "library\\admin.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:32:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\welcome.xaml.cs",
+              "RelativeDocumentMoniker": "library\\welcome.xaml.cs",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\welcome.xaml.cs",
+              "RelativeToolTip": "library\\welcome.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:30:24.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "welcome.xaml",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\welcome.xaml",
+              "RelativeDocumentMoniker": "library\\welcome.xaml",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\welcome.xaml",
+              "RelativeToolTip": "library\\welcome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T06:28:19.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin.xaml",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\admin.xaml",
+              "RelativeDocumentMoniker": "library\\admin.xaml",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\admin.xaml",
+              "RelativeToolTip": "library\\admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T06:27:49.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\user.xaml.cs",
+              "RelativeDocumentMoniker": "library\\user.xaml.cs",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\user.xaml.cs",
+              "RelativeToolTip": "library\\user.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwFkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:48:28.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.xaml",
+              "DocumentMoniker": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\user.xaml",
+              "RelativeDocumentMoniker": "library\\user.xaml",
+              "ToolTip": "C:\\Users\\IT\\Downloads\\Learn_Github-main\\library\\library\\user.xaml",
+              "RelativeToolTip": "library\\user.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T09:02:53.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
