@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|c:\\users\\admin\\source\\repos\\library management system\\library management system\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|C:\\Users\\Admin\\source\\repos\\Library Management System\\library management system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53F97EF-07B2-42EA-8A22-98B721A43164}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.edmx.diagram",
+              "RelativeDocumentMoniker": "Library Management System\\Model1.edmx.diagram",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.edmx.diagram",
+              "RelativeToolTip": "Library Management System\\Model1.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T11:58:41.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.Designer.cs",
+              "RelativeToolTip": "Library Management System\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:58:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "Library Management System\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.Context.tt",
+              "RelativeToolTip": "Library Management System\\Model1.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-07T11:58:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.Context.cs",
+              "RelativeToolTip": "Library Management System\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:58:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Admin.xaml.cs",
+              "RelativeToolTip": "Library Management System\\Admin.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:56:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Welcome.xaml.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Welcome.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Welcome.xaml.cs",
+              "RelativeToolTip": "Library Management System\\Welcome.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:47:42.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Admin.xaml",
+              "RelativeDocumentMoniker": "Library Management System\\Admin.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Admin.xaml*",
+              "RelativeToolTip": "Library Management System\\Admin.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T10:39:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Welcome.xaml",
+              "RelativeDocumentMoniker": "Library Management System\\Welcome.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Welcome.xaml",
+              "RelativeToolTip": "Library Management System\\Welcome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T10:39:00.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\User.xaml",
+              "RelativeDocumentMoniker": "Library Management System\\User.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\User.xaml*",
+              "RelativeToolTip": "Library Management System\\User.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T10:39:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\User.xaml.cs",
+              "RelativeDocumentMoniker": "Library Management System\\User.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\User.xaml.cs",
+              "RelativeToolTip": "Library Management System\\User.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:41:33.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.tt",
+              "RelativeDocumentMoniker": "Library Management System\\Model1.tt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.tt",
+              "RelativeToolTip": "Library Management System\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-07T11:58:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\book.cs",
+              "RelativeDocumentMoniker": "Library Management System\\book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\book.cs",
+              "RelativeToolTip": "Library Management System\\book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:58:46.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.edmx",
+              "RelativeDocumentMoniker": "Library Management System\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Library Management System\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-07T11:51:22.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library Management System\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\MainWindow.xaml",
+              "RelativeToolTip": "Library Management System\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T07:53:10.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library Management System\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Library Management System\\Library Management System\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library Management System\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:53:08.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
